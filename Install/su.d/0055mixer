@@ -1,8 +1,1 @@
-## StereoSpeakerMod ##
- # by LUKEST85 @XDA #
-#
-# Setup for system-less SuperSU
-#
-# Create link for modified mixer_paths.xml
-# 
 mount -o bind /su/etc/mixer_paths.xml /system/etc/mixer_paths.xml;
